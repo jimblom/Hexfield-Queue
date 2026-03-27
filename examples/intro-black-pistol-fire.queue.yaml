@@ -1,0 +1,46 @@
+# Hexfield Queue — .queue.yaml
+version: "0.1"
+meta:
+  title: "Introduction to Black Pistol Fire"
+  description: "Start with latest, then their best album, then most popular, then influences and contemporaries."
+  created: "2026-03-26"
+  tags: ["rock", "blues-rock", "introduction"]
+  generated_by: "claude"
+  prompt: |
+    Introduce me to Black Pistol Fire. Start with their latest release,
+    then their most critically recognized album in full, then their most
+    popular tracks. Follow with artists who influenced them and contemporaries.
+
+tracks:
+  - type: track
+    title: "Railhead"
+    artist: "Black Pistol Fire"
+    album: "Deadwater"
+    year: 2023
+    notes: "Latest single as of generation date."
+
+  - type: album
+    title: "Deadwater"
+    artist: "Black Pistol Fire"
+    year: 2023
+    notes: "Most recent full album — play in full."
+
+  - type: track
+    title: "Suffocation Blues"
+    artist: "Black Pistol Fire"
+    album: "Big Beat '59"
+    year: 2014
+    notes: "Their most popular track by streams."
+
+  - type: track
+    title: "Garbage Fire"
+    artist: "Black Pistol Fire"
+    album: "Deadwater"
+    year: 2023
+
+  - type: track
+    title: "Lonely Boy"
+    artist: "The Black Keys"
+    album: "El Camino"
+    year: 2011
+    notes: "Influence/contemporary — similar blues-rock energy."

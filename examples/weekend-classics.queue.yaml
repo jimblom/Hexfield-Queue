@@ -1,0 +1,54 @@
+# Hexfield Queue — .queue.yaml
+version: "0.1"
+meta:
+  title: "Weekend Classics"
+  description: "Saturday afternoon driving music. Windows down, no agenda."
+  created: "2026-03-26"
+  tags: ["classic-rock", "driving", "weekend"]
+  generated_by: "human"
+
+tracks:
+  - type: track
+    title: "Running Down a Dream"
+    artist: "Tom Petty"
+    album: "Full Moon Fever"
+    year: 1989
+    notes: "Start here. No argument."
+
+  - type: album
+    title: "Rumours"
+    artist: "Fleetwood Mac"
+    year: 1977
+    notes: "Play in full. Every track earns its place."
+
+  - type: track
+    title: "Desperado"
+    artist: "Eagles"
+    album: "Desperado"
+    year: 1973
+
+  - type: track
+    title: "Born to Run"
+    artist: "Bruce Springsteen"
+    album: "Born to Run"
+    year: 1975
+    notes: "Roll all the windows down for this one."
+
+  - type: track
+    title: "Gimme Shelter"
+    artist: "The Rolling Stones"
+    album: "Let It Bleed"
+    year: 1969
+
+  - type: track
+    title: "Go Your Own Way"
+    artist: "Fleetwood Mac"
+    album: "Rumours"
+    year: 1977
+    notes: "For when you need it as a standalone closer."
+
+  - type: track
+    title: "American Girl"
+    artist: "Tom Petty and the Heartbreakers"
+    album: "Tom Petty and the Heartbreakers"
+    year: 1976

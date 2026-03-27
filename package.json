@@ -1,0 +1,13 @@
+{
+  "name": "hexfield-queue",
+  "version": "0.1.0",
+  "description": "A YAML-based playlist standard and music service export pipeline.",
+  "license": "MIT",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "export": "node scripts/export-apple-music.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
