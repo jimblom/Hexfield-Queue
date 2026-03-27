@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "validate": "node scripts/validate.js",
-    "export": "node scripts/export-apple-music.js"
+    "export": "node scripts/export-apple-music.js",
+    "export:xml": "node scripts/export-itunes-xml.js"
   },
   "dependencies": {
     "js-yaml": "^4.1.0"

@@ -28,9 +28,22 @@ jobs:
             node scripts/export-apple-music.js "$f"
           done
 
+      - name: Export examples to iTunes XML
+        run: |
+          for f in examples/*.queue.yaml; do
+            node scripts/export-itunes-xml.js "$f"
+          done
+
       - name: Upload CSV artifacts
         uses: actions/upload-artifact@v4
         with:
           name: apple-music-csvs
           path: "*.csv"
+          retention-days: 30
+
+      - name: Upload iTunes XML artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: itunes-xml
+          path: "*.xml"
           retention-days: 30
