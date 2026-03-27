@@ -21,3 +21,16 @@ jobs:
 
       - name: Validate .queue.yaml files
         run: node scripts/validate.js examples/*.queue.yaml
+
+      - name: Export examples to Apple Music CSV
+        run: |
+          for f in examples/*.queue.yaml; do
+            node scripts/export-apple-music.js "$f"
+          done
+
+      - name: Upload CSV artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: apple-music-csvs
+          path: "*.csv"
+          retention-days: 30
