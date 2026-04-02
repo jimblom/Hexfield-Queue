@@ -503,14 +503,58 @@ tracks:
     album: "Never Mind the Bollocks"
     year: 1977
 
-  # === WAVE 6: SECOND WIND — Post-Hardcore & Influencees (Miles 19-22) ===
+  # === WAVE 6: SECOND WIND — Modern Hardcore & Post-Hardcore (Miles 19-22) ===
+
+  - type: track
+    title: "Mystery"
+    artist: "Turnstile"
+    album: "Glow On"
+    year: 2021
+    notes: "Turnstile broke hardcore wide open. This track is pure runner's high."
+
+  - type: track
+    title: "Blackout"
+    artist: "Turnstile"
+    album: "Glow On"
+    year: 2021
+
+  - type: track
+    title: "Holiday"
+    artist: "Turnstile"
+    album: "Glow On"
+    year: 2021
+
+  - type: track
+    title: "T.L.C. (Turnstile Love Connection)"
+    artist: "Turnstile"
+    album: "Glow On"
+    year: 2021
+
+  - type: track
+    title: "Generator"
+    artist: "Turnstile"
+    album: "Time & Space"
+    year: 2018
+
+  - type: track
+    title: "Real Thing"
+    artist: "Turnstile"
+    album: "Time & Space"
+    year: 2018
+
+  - type: track
+    title: "Gravity"
+    artist: "Turnstile"
+    album: "Nonstop Feeling"
+    year: 2015
+    notes: "Early Turnstile — rawer, harder, still grooves."
 
   - type: track
     title: "Waiting Room"
     artist: "Fugazi"
     album: "13 Songs"
     year: 1989
-    notes: "Influencee — Ian MacKaye's post-Minor Threat evolution. The bassline alone is worth a mile."
+    notes: "Ian MacKaye's post-Minor Threat evolution. The bassline alone is worth a mile."
 
   - type: track
     title: "Suggestion"
@@ -519,86 +563,17 @@ tracks:
     year: 1989
 
   - type: track
-    title: "Margin Walker"
-    artist: "Fugazi"
-    album: "13 Songs"
-    year: 1989
-
-  - type: track
-    title: "Shut the Door"
-    artist: "Fugazi"
-    album: "Repeater"
-    year: 1990
-
-  - type: track
-    title: "Turnover"
-    artist: "Fugazi"
-    album: "Repeater"
-    year: 1990
-
-  - type: track
     title: "Blueprint"
     artist: "Fugazi"
     album: "Repeater"
     year: 1990
 
   - type: track
-    title: "Reclamation"
-    artist: "Fugazi"
-    album: "Repeater"
-    year: 1990
-
-  - type: track
-    title: "Archers of Loaf"
-    artist: "Jawbreaker"
-    album: "24 Hour Revenge Therapy"
-    year: 1994
-    notes: "Influencee — emotional hardcore before 'emo' was a dirty word."
-
-  - type: track
-    title: "Boxcar"
-    artist: "Jawbreaker"
-    album: "24 Hour Revenge Therapy"
-    year: 1994
-
-  - type: track
-    title: "Condition Oakland"
-    artist: "Jawbreaker"
-    album: "24 Hour Revenge Therapy"
-    year: 1994
-
-  - type: track
-    title: "In Circles"
-    artist: "Sunny Day Real Estate"
-    album: "Diary"
-    year: 1994
-    notes: "Influencee — post-hardcore/emo. Quieter intensity for the long miles."
-
-  - type: track
-    title: "Seven"
-    artist: "Sunny Day Real Estate"
-    album: "Diary"
-    year: 1994
-
-  - type: track
-    title: "Undertow"
-    artist: "Tool"
-    album: "Undertow"
-    year: 1993
-    notes: "Influencee — what happens when hardcore meets prog and goes deep."
-
-  - type: track
-    title: "Sober"
-    artist: "Tool"
-    album: "Undertow"
-    year: 1993
-
-  - type: track
     title: "New Noise"
     artist: "Refused"
     album: "The Shape of Punk to Come"
     year: 1998
-    notes: "Influencee — Swedish post-hardcore that predicted punk's future."
+    notes: "Swedish post-hardcore that predicted punk's future."
 
   - type: track
     title: "Worms of the Senses / Faculties of the Skull"
@@ -607,16 +582,69 @@ tracks:
     year: 1998
 
   - type: track
-    title: "Summertime Rolls"
-    artist: "Refused"
-    album: "The Shape of Punk to Come"
-    year: 1998
+    title: "Glue"
+    artist: "Trapped Under Ice"
+    album: "Heatwave"
+    year: 2011
+    notes: "Baltimore hardcore — Turnstile's older sibling. Brendan Yates cut his teeth here."
 
   - type: track
-    title: "Rather Be Dead"
-    artist: "Refused"
-    album: "The Shape of Punk to Come"
-    year: 1998
+    title: "Believe"
+    artist: "Trapped Under Ice"
+    album: "Big Kiss Goodnight"
+    year: 2014
+
+  - type: track
+    title: "The Dream"
+    artist: "Angel Du$t"
+    album: "Pretty Buff"
+    year: 2019
+    notes: "Hardcore-adjacent pop punk from the Turnstile/TUI extended universe."
+
+  - type: track
+    title: "Ache"
+    artist: "Drain"
+    album: "Living Proof"
+    year: 2023
+    notes: "Santa Cruz crossover thrash revival. Modern pit energy."
+
+  - type: track
+    title: "California Cursed"
+    artist: "Drain"
+    album: "California Cursed"
+    year: 2020
+
+  - type: track
+    title: "The Flex"
+    artist: "Militarie Gun"
+    album: "Life Under the Gun"
+    year: 2023
+    notes: "Ian Shelton's post-hardcore project — catchy, heavy, unstoppable."
+
+  - type: track
+    title: "Do It Faster"
+    artist: "Militarie Gun"
+    album: "Life Under the Gun"
+    year: 2023
+
+  - type: track
+    title: "Very High"
+    artist: "Militarie Gun"
+    album: "Life Under the Gun"
+    year: 2023
+
+  - type: track
+    title: "Bite Down"
+    artist: "Knocked Loose"
+    album: "A Different Shade of Blue"
+    year: 2019
+    notes: "Modern metallic hardcore. Absolutely punishing — save it for when the legs are screaming."
+
+  - type: track
+    title: "Mistakes Like Fractures"
+    artist: "Knocked Loose"
+    album: "Laugh Tracks"
+    year: 2016
 
   # === WAVE 7: FINAL 10K — All-Out Assault (Miles 22-26.2) ===
 
