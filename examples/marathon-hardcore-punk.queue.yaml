@@ -1,0 +1,751 @@
+# Hexfield Queue — marathon-hardcore-punk.queue.yaml
+version: "0.1"
+meta:
+  title: "Marathon Hardcore"
+  description: >
+    A marathon-length running playlist built around hardcore punk — fast, relentless,
+    and full of adrenaline. Organized in waves: early hardcore to set the pace, classic
+    NYHC and DC hardcore for the grind, crossover thrash for the middle miles, and
+    post-hardcore and influencers woven in for texture. Closes with a final push of
+    all-out intensity for the last 10K.
+  created: "2026-04-01"
+  tags: ["hardcore-punk", "punk", "running", "marathon", "high-energy"]
+  generated_by: "claude"
+  prompt: |
+    Create a marathon-length running playlist that features primarily hardcore punk
+    with some allowance for both influencers and influencees of that genre.
+
+tracks:
+  # === WAVE 1: STARTING LINE — Early Hardcore (Miles 1-4) ===
+
+  - type: track
+    title: "Rise Above"
+    artist: "Black Flag"
+    album: "Damaged"
+    year: 1981
+    notes: "Opening anthem. Henry Rollins telling you gravity is optional. Perfect first-mile energy."
+
+  - type: track
+    title: "Six Pack"
+    artist: "Black Flag"
+    album: "Damaged"
+    year: 1981
+
+  - type: track
+    title: "Nervous Breakdown"
+    artist: "Black Flag"
+    album: "Nervous Breakdown"
+    year: 1979
+    notes: "The song that started West Coast hardcore."
+
+  - type: track
+    title: "Spray Paint the Walls"
+    artist: "Black Flag"
+    album: "My War"
+    year: 1984
+
+  - type: track
+    title: "Los Angeles"
+    artist: "X"
+    album: "Los Angeles"
+    year: 1980
+    notes: "Influencer — LA punk that helped set the stage for hardcore."
+
+  - type: track
+    title: "Amoeba"
+    artist: "Adolescents"
+    album: "Adolescents"
+    year: 1981
+
+  - type: track
+    title: "Lexicon Devil"
+    artist: "Germs"
+    album: "GI"
+    year: 1979
+    notes: "Influencer — proto-hardcore from the LA scene. Darby Crash at full chaos."
+
+  - type: track
+    title: "We Must Bleed"
+    artist: "Germs"
+    album: "GI"
+    year: 1979
+
+  - type: track
+    title: "Wasted"
+    artist: "Black Flag"
+    album: "Nervous Breakdown"
+    year: 1979
+
+  - type: track
+    title: "Machine Gun"
+    artist: "Angry Samoans"
+    album: "Inside My Brain"
+    year: 1980
+    notes: "Absurdly fast early hardcore."
+
+  - type: track
+    title: "Police Story"
+    artist: "Black Flag"
+    album: "Damaged"
+    year: 1981
+
+  # === WAVE 2: FINDING YOUR PACE — DC Hardcore (Miles 5-9) ===
+
+  - type: track
+    title: "Straight Edge"
+    artist: "Minor Threat"
+    album: "Minor Threat"
+    year: 1981
+    notes: "46 seconds that launched a movement."
+
+  - type: track
+    title: "Out of Step (with the World)"
+    artist: "Minor Threat"
+    album: "Out of Step"
+    year: 1983
+
+  - type: track
+    title: "Filler"
+    artist: "Minor Threat"
+    album: "Minor Threat"
+    year: 1981
+
+  - type: track
+    title: "In My Eyes"
+    artist: "Minor Threat"
+    album: "Minor Threat"
+    year: 1981
+
+  - type: track
+    title: "Screaming at a Wall"
+    artist: "Minor Threat"
+    album: "Minor Threat"
+    year: 1981
+
+  - type: track
+    title: "Betray"
+    artist: "Minor Threat"
+    album: "Minor Threat"
+    year: 1981
+
+  - type: track
+    title: "Seeing Red"
+    artist: "Minor Threat"
+    album: "Out of Step"
+    year: 1983
+
+  - type: track
+    title: "Sailin' On"
+    artist: "Bad Brains"
+    album: "Bad Brains"
+    year: 1982
+    notes: "Bad Brains brought speed, reggae, and PMA to DC hardcore."
+
+  - type: track
+    title: "Pay to Cum"
+    artist: "Bad Brains"
+    album: "Bad Brains"
+    year: 1982
+    notes: "One of the fastest hardcore tracks ever recorded."
+
+  - type: track
+    title: "Banned in D.C."
+    artist: "Bad Brains"
+    album: "Bad Brains"
+    year: 1982
+
+  - type: track
+    title: "Attitude"
+    artist: "Bad Brains"
+    album: "Bad Brains"
+    year: 1982
+
+  - type: track
+    title: "Right Brigade"
+    artist: "Bad Brains"
+    album: "Bad Brains"
+    year: 1982
+
+  - type: track
+    title: "Big Take Over"
+    artist: "Bad Brains"
+    album: "Bad Brains"
+    year: 1982
+
+  - type: track
+    title: "Guilty of Being White"
+    artist: "Minor Threat"
+    album: "Minor Threat"
+    year: 1981
+
+  - type: track
+    title: "Stand Up"
+    artist: "Minor Threat"
+    album: "Out of Step"
+    year: 1983
+
+  - type: track
+    title: "Stepping Stone"
+    artist: "Minor Threat"
+    album: "First Two Seven Inches"
+    year: 1981
+    notes: "Monkees cover, but make it furious."
+
+  # === WAVE 3: THE GRIND — NYHC & Boston (Miles 10-14) ===
+
+  - type: track
+    title: "Victim in Pain"
+    artist: "Agnostic Front"
+    album: "Victim in Pain"
+    year: 1984
+    notes: "NYHC anthem. Welcome to the Lower East Side."
+
+  - type: track
+    title: "Gotta Go"
+    artist: "Agnostic Front"
+    album: "Victim in Pain"
+    year: 1984
+
+  - type: track
+    title: "United Blood"
+    artist: "Agnostic Front"
+    album: "United Blood"
+    year: 1983
+
+  - type: track
+    title: "Don't Tread on Me"
+    artist: "Cro-Mags"
+    album: "The Age of Quarrel"
+    year: 1986
+    notes: "Crossover fury. John Joseph's voice is a weapon."
+
+  - type: track
+    title: "World Peace"
+    artist: "Cro-Mags"
+    album: "The Age of Quarrel"
+    year: 1986
+
+  - type: track
+    title: "We Gotta Know"
+    artist: "Cro-Mags"
+    album: "The Age of Quarrel"
+    year: 1986
+
+  - type: track
+    title: "Hard Times"
+    artist: "Cro-Mags"
+    album: "The Age of Quarrel"
+    year: 1986
+
+  - type: track
+    title: "It's the Limit"
+    artist: "Cro-Mags"
+    album: "The Age of Quarrel"
+    year: 1986
+
+  - type: track
+    title: "Life of My Own"
+    artist: "Gorilla Biscuits"
+    album: "Start Today"
+    year: 1989
+    notes: "Youth crew positivity for when you need a second wind."
+
+  - type: track
+    title: "Start Today"
+    artist: "Gorilla Biscuits"
+    album: "Start Today"
+    year: 1989
+
+  - type: track
+    title: "Cats and Dogs"
+    artist: "Gorilla Biscuits"
+    album: "Start Today"
+    year: 1989
+
+  - type: track
+    title: "New Direction"
+    artist: "Gorilla Biscuits"
+    album: "Start Today"
+    year: 1989
+
+  - type: track
+    title: "Can't Close My Eyes"
+    artist: "Youth of Today"
+    album: "Can't Close My Eyes"
+    year: 1985
+    notes: "Youth crew straight edge — all urgency, all heart."
+
+  - type: track
+    title: "Make a Change"
+    artist: "Youth of Today"
+    album: "Break Down the Walls"
+    year: 1986
+
+  - type: track
+    title: "Crucial Times"
+    artist: "Sick of It All"
+    album: "Blood, Sweat, and No Tears"
+    year: 1989
+    notes: "NYHC workhorses. Perfect grinding-out-miles music."
+
+  - type: track
+    title: "Injustice System"
+    artist: "Sick of It All"
+    album: "Blood, Sweat, and No Tears"
+    year: 1989
+
+  - type: track
+    title: "My Life"
+    artist: "Sick of It All"
+    album: "Just Look Around"
+    year: 1992
+
+  - type: track
+    title: "Boiling Point"
+    artist: "SSD"
+    album: "The Kids Will Have Their Say"
+    year: 1982
+    notes: "Boston hardcore — Springa and the crew at their peak."
+
+  - type: track
+    title: "Glue"
+    artist: "SSD"
+    album: "The Kids Will Have Their Say"
+    year: 1982
+
+  # === WAVE 4: HALFWAY PUSH — Crossover Thrash (Miles 15-18) ===
+
+  - type: track
+    title: "Milk"
+    artist: "Dead Kennedys"
+    album: "Frankenchrist"
+    year: 1985
+
+  - type: track
+    title: "Holiday in Cambodia"
+    artist: "Dead Kennedys"
+    album: "Fresh Fruit for Rotting Vegetables"
+    year: 1980
+    notes: "Influencer — Jello Biafra's political punk blazed the trail."
+
+  - type: track
+    title: "California Uber Alles"
+    artist: "Dead Kennedys"
+    album: "Fresh Fruit for Rotting Vegetables"
+    year: 1980
+
+  - type: track
+    title: "Nazi Punks Fuck Off"
+    artist: "Dead Kennedys"
+    album: "In God We Trust, Inc."
+    year: 1981
+
+  - type: track
+    title: "Bleed for Me"
+    artist: "Dead Kennedys"
+    album: "Plastic Surgery Disasters"
+    year: 1982
+
+  - type: track
+    title: "Mad Man"
+    artist: "Suicidal Tendencies"
+    album: "Suicidal Tendencies"
+    year: 1983
+    notes: "Venice Beach crossover. Thrash meets hardcore meets skate culture."
+
+  - type: track
+    title: "Institutionalized"
+    artist: "Suicidal Tendencies"
+    album: "Suicidal Tendencies"
+    year: 1983
+    notes: "All I wanted was a Pepsi."
+
+  - type: track
+    title: "Possessed to Skate"
+    artist: "Suicidal Tendencies"
+    album: "Join the Army"
+    year: 1987
+
+  - type: track
+    title: "War Inside My Head"
+    artist: "Suicidal Tendencies"
+    album: "Lights...Camera...Revolution!"
+    year: 1990
+
+  - type: track
+    title: "Toxic Waltz"
+    artist: "Exodus"
+    album: "Fabulous Disaster"
+    year: 1989
+    notes: "Thrash crossover — circle pit anthem for when the legs are burning."
+
+  - type: track
+    title: "March of the S.O.D."
+    artist: "Stormtroopers of Death"
+    album: "Speak English or Die"
+    year: 1985
+    notes: "Crossover thrash at its most absurdly fast."
+
+  - type: track
+    title: "Kill Yourself"
+    artist: "Stormtroopers of Death"
+    album: "Speak English or Die"
+    year: 1985
+
+  - type: track
+    title: "United Forces"
+    artist: "Stormtroopers of Death"
+    album: "Speak English or Die"
+    year: 1985
+
+  - type: track
+    title: "Sergeant D & the S.O.D."
+    artist: "Stormtroopers of Death"
+    album: "Speak English or Die"
+    year: 1985
+
+  - type: track
+    title: "Thrasher"
+    artist: "D.R.I."
+    album: "Dealing with It!"
+    year: 1985
+    notes: "Dirty Rotten Imbeciles — crossover pioneers."
+
+  - type: track
+    title: "I Don't Need Society"
+    artist: "D.R.I."
+    album: "Dealing with It!"
+    year: 1985
+
+  - type: track
+    title: "Violent Pacification"
+    artist: "D.R.I."
+    album: "Dealing with It!"
+    year: 1985
+
+  # === WAVE 5: MILE 18 WALL — Influencers & Breathers ===
+
+  - type: track
+    title: "Search and Destroy"
+    artist: "Iggy and the Stooges"
+    album: "Raw Power"
+    year: 1973
+    notes: "Influencer — proto-punk godfather. The original raw power."
+
+  - type: track
+    title: "I Wanna Be Your Dog"
+    artist: "The Stooges"
+    album: "The Stooges"
+    year: 1969
+    notes: "Influencer — the primordial riff that made punk possible."
+
+  - type: track
+    title: "Blitzkrieg Bop"
+    artist: "Ramones"
+    album: "Ramones"
+    year: 1976
+    notes: "Influencer — the Ramones' tempo is your tempo now."
+
+  - type: track
+    title: "Beat on the Brat"
+    artist: "Ramones"
+    album: "Ramones"
+    year: 1976
+
+  - type: track
+    title: "Teenage Lobotomy"
+    artist: "Ramones"
+    album: "Rocket to Russia"
+    year: 1977
+
+  - type: track
+    title: "I Wanna Be Sedated"
+    artist: "Ramones"
+    album: "Road to Ruin"
+    year: 1978
+
+  - type: track
+    title: "Rockaway Beach"
+    artist: "Ramones"
+    album: "Rocket to Russia"
+    year: 1977
+
+  - type: track
+    title: "White Riot"
+    artist: "The Clash"
+    album: "The Clash"
+    year: 1977
+    notes: "Influencer — UK first wave punk. Joe Strummer keeps you honest."
+
+  - type: track
+    title: "Complete Control"
+    artist: "The Clash"
+    album: "The Clash"
+    year: 1977
+
+  - type: track
+    title: "New Rose"
+    artist: "The Damned"
+    album: "Damned Damned Damned"
+    year: 1977
+    notes: "Influencer — first UK punk single. Fast, sloppy, perfect."
+
+  - type: track
+    title: "God Save the Queen"
+    artist: "Sex Pistols"
+    album: "Never Mind the Bollocks"
+    year: 1977
+    notes: "Influencer — whether you love 'em or hate 'em, they lit the fuse."
+
+  - type: track
+    title: "Anarchy in the U.K."
+    artist: "Sex Pistols"
+    album: "Never Mind the Bollocks"
+    year: 1977
+
+  # === WAVE 6: SECOND WIND — Post-Hardcore & Influencees (Miles 19-22) ===
+
+  - type: track
+    title: "Waiting Room"
+    artist: "Fugazi"
+    album: "13 Songs"
+    year: 1989
+    notes: "Influencee — Ian MacKaye's post-Minor Threat evolution. The bassline alone is worth a mile."
+
+  - type: track
+    title: "Suggestion"
+    artist: "Fugazi"
+    album: "13 Songs"
+    year: 1989
+
+  - type: track
+    title: "Margin Walker"
+    artist: "Fugazi"
+    album: "13 Songs"
+    year: 1989
+
+  - type: track
+    title: "Shut the Door"
+    artist: "Fugazi"
+    album: "Repeater"
+    year: 1990
+
+  - type: track
+    title: "Turnover"
+    artist: "Fugazi"
+    album: "Repeater"
+    year: 1990
+
+  - type: track
+    title: "Blueprint"
+    artist: "Fugazi"
+    album: "Repeater"
+    year: 1990
+
+  - type: track
+    title: "Reclamation"
+    artist: "Fugazi"
+    album: "Repeater"
+    year: 1990
+
+  - type: track
+    title: "Archers of Loaf"
+    artist: "Jawbreaker"
+    album: "24 Hour Revenge Therapy"
+    year: 1994
+    notes: "Influencee — emotional hardcore before 'emo' was a dirty word."
+
+  - type: track
+    title: "Boxcar"
+    artist: "Jawbreaker"
+    album: "24 Hour Revenge Therapy"
+    year: 1994
+
+  - type: track
+    title: "Condition Oakland"
+    artist: "Jawbreaker"
+    album: "24 Hour Revenge Therapy"
+    year: 1994
+
+  - type: track
+    title: "In Circles"
+    artist: "Sunny Day Real Estate"
+    album: "Diary"
+    year: 1994
+    notes: "Influencee — post-hardcore/emo. Quieter intensity for the long miles."
+
+  - type: track
+    title: "Seven"
+    artist: "Sunny Day Real Estate"
+    album: "Diary"
+    year: 1994
+
+  - type: track
+    title: "Undertow"
+    artist: "Tool"
+    album: "Undertow"
+    year: 1993
+    notes: "Influencee — what happens when hardcore meets prog and goes deep."
+
+  - type: track
+    title: "Sober"
+    artist: "Tool"
+    album: "Undertow"
+    year: 1993
+
+  - type: track
+    title: "New Noise"
+    artist: "Refused"
+    album: "The Shape of Punk to Come"
+    year: 1998
+    notes: "Influencee — Swedish post-hardcore that predicted punk's future."
+
+  - type: track
+    title: "Worms of the Senses / Faculties of the Skull"
+    artist: "Refused"
+    album: "The Shape of Punk to Come"
+    year: 1998
+
+  - type: track
+    title: "Summertime Rolls"
+    artist: "Refused"
+    album: "The Shape of Punk to Come"
+    year: 1998
+
+  - type: track
+    title: "Rather Be Dead"
+    artist: "Refused"
+    album: "The Shape of Punk to Come"
+    year: 1998
+
+  # === WAVE 7: FINAL 10K — All-Out Assault (Miles 22-26.2) ===
+
+  - type: track
+    title: "Fix Me"
+    artist: "Black Flag"
+    album: "Damaged"
+    year: 1981
+    notes: "Back to the beginning. Full circle, full throttle."
+
+  - type: track
+    title: "Nervous Breakdown"
+    artist: "Circle Jerks"
+    album: "Group Sex"
+    year: 1980
+    notes: "Keith Morris post-Black Flag. Pure velocity."
+
+  - type: track
+    title: "Wild in the Streets"
+    artist: "Circle Jerks"
+    album: "Wild in the Streets"
+    year: 1982
+
+  - type: track
+    title: "Live Fast Die Young"
+    artist: "Circle Jerks"
+    album: "Group Sex"
+    year: 1980
+
+  - type: track
+    title: "Territorial Pissings"
+    artist: "Nirvana"
+    album: "Nevermind"
+    year: 1991
+    notes: "Influencee — Kurt's hardcore roots showing through."
+
+  - type: track
+    title: "Breed"
+    artist: "Nirvana"
+    album: "Nevermind"
+    year: 1991
+
+  - type: track
+    title: "Slip It In"
+    artist: "Black Flag"
+    album: "Slip It In"
+    year: 1984
+
+  - type: track
+    title: "Room 13"
+    artist: "Discharge"
+    album: "Hear Nothing See Nothing Say Nothing"
+    year: 1982
+    notes: "UK82 hardcore. D-beat — the heartbeat of hardcore punk."
+
+  - type: track
+    title: "Hear Nothing See Nothing Say Nothing"
+    artist: "Discharge"
+    album: "Hear Nothing See Nothing Say Nothing"
+    year: 1982
+
+  - type: track
+    title: "State Violence State Control"
+    artist: "Discharge"
+    album: "Hear Nothing See Nothing Say Nothing"
+    year: 1982
+
+  - type: track
+    title: "The Bars"
+    artist: "Converge"
+    album: "Jane Doe"
+    year: 2001
+    notes: "Influencee — metallic hardcore at its most ferocious."
+
+  - type: track
+    title: "Concubine"
+    artist: "Converge"
+    album: "Jane Doe"
+    year: 2001
+
+  - type: track
+    title: "Fault and Fracture"
+    artist: "Converge"
+    album: "Jane Doe"
+    year: 2001
+
+  - type: track
+    title: "This Is a Standoff"
+    artist: "Comeback Kid"
+    album: "Turn It Around"
+    year: 2003
+    notes: "Influencee — modern melodic hardcore. Singalong energy for the final miles."
+
+  - type: track
+    title: "Wake the Dead"
+    artist: "Comeback Kid"
+    album: "Wake the Dead"
+    year: 2005
+
+  - type: track
+    title: "Counting"
+    artist: "Comeback Kid"
+    album: "Wake the Dead"
+    year: 2005
+
+  - type: track
+    title: "One Choice"
+    artist: "Have Heart"
+    album: "The Things We Carry"
+    year: 2008
+    notes: "Influencee — Boston straight edge melodic hardcore. Heart on sleeve, legs still moving."
+
+  - type: track
+    title: "Life Is Hard Enough as It Is"
+    artist: "Have Heart"
+    album: "The Things We Carry"
+    year: 2008
+
+  - type: track
+    title: "Spray Paint"
+    artist: "Black Flag"
+    album: "Damaged"
+    year: 1981
+
+  # === FINISH LINE ===
+
+  - type: track
+    title: "Rise Above"
+    artist: "Bad Brains"
+    album: "Bad Brains"
+    year: 1982
+    notes: "The other Rise Above. Cross the finish line with PMA."
